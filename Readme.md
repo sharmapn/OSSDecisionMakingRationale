@@ -3,4 +3,4 @@ It was initially created for our International Conference on Software Engineerin
 ``Extracting Rationale for Open Source Software Development Decisions — A Study of Python Email Archives''
 https://arxiv.org/pdf/2102.05232.pdf
 
-However, these data and images are also necessary supplemntary materials for our substantially revised version of the above paper which was published as a Journal paper "How are decisions made in Open Source Software communities?  --- Uncovering rationale from Python Email Repositories". 
+However, these supplementary materials are needed for the substantially revised article "How are decisions made in Open Source Software communities?  --- Uncovering rationale from Python Email Repositories" published in the Journal of Software: Evolution and Process.
